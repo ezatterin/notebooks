@@ -50,3 +50,10 @@ Temporary Items
 .ipynb_checkpoints
 core
 *.pdf
+*.pyc
+*.py
+*.txt
+*.html
+*.pgf
+*.tex
+*.csv
