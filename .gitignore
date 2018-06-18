@@ -57,3 +57,5 @@ core
 *.pgf
 *.tex
 *.csv
+*.png
+*.jpg
